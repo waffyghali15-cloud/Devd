@@ -1,0 +1,6 @@
+{
+  "name": "Android Calculator & GitHub Repo Builder",
+  "description": "تطبيق آلة حاسبة أندرويد متكامل بتصميم ماتيريال 3، مع محاكي تفاعلي ومولد مستودع GitHub كامل جاهز لبناء الـ APK عبر GitHub Actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
